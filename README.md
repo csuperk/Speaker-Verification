@@ -10,4 +10,4 @@ architecutre :
 ![](/image/architecture.png)
 
 result : 
-![](/image/result.png)
+![](/image/result.PNG)
