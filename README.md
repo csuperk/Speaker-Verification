@@ -1,10 +1,7 @@
 # Speaker-Verification
 Speaker Verification using convolutional neural network
 
-## requirement :
-```
-python3.6、tenserflow、speechpy
-```
+
 ## dataset : [ASV spoof 2015](https://drive.google.com/open?id=10iM40Z2WVLTBZ_QxSYpmdCiHNR7-K6oz)
 
 ## flowchart : 
@@ -17,6 +14,12 @@ python3.6、tenserflow、speechpy
 ![](/image/result.PNG)
 
 ***
-
 ## How to use : 
-GenerateFileName.py > AddNoiseAndEndPointDeteciton.py > Preprocessing.py > Normalization.py > SICNN.py
+```
+GenerateFileName.py > AddNoiseAndEndPointDeteciton.py > Preprocessing.py > Normalization.py >SICNN.py
+```
+
+## requirement :
+```
+python3.6、tenserflow、speechpy
+```
