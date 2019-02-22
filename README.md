@@ -14,7 +14,7 @@ Speaker Verification using convolutional neural network
 ![](/image/result.PNG)
 
 ***
-## How to use : 
+## how to use : 
 ```
 GenerateFileName.py > AddNoiseAndEndPointDeteciton.py > Preprocessing.py > Normalization.py >SICNN.py
 ```
