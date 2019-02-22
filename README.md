@@ -15,4 +15,4 @@ Speaker Verification using convolutional neural network
 ***
 
 ## How to use : 
-### GenerateFileName.py > AddNoiseAndEndPointDeteciton.py > Preprocessing.py > Normalization.py > SICNN.py
+GenerateFileName.py > AddNoiseAndEndPointDeteciton.py > Preprocessing.py > Normalization.py > SICNN.py
